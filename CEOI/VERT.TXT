@@ -1,0 +1,43 @@
+         ICAO Phonetic Alphabet
+
+   Alpha      AL fah
+   Bravo      BRAH voh
+   Charlie    CHAR lee (SHAR lee)
+   Delta      DELL tah
+   Echo       ECK oh
+   Foxtrot    FOKS trot
+   Golf       GOLF
+   Hotel      hoh TELL
+   India      IN dee ah
+   Juliett    JEW lee ett
+   Kilo       KEY loh
+   Lima       LEE mah
+   Mike       MIKE
+   November   no VEM ber
+   Oscar      OSS cah
+   Papa       pah PAH
+   Quebec     keh BECK
+   Romeo      ROW me oh
+   Sierra     see AIR rah
+   Tango      TANG go
+   Uniform    YOU nee form (OO nee form)
+   Victor     VIK tah
+   Wiskey     WISS key
+   Xray       ECKS ray
+   Yankee     YANG key
+   Zulu       ZOO loo
+
+0 ZE ro   3 TREE     6 SIX     9 NIN er  
+1 WUN     4 FOW er   7 SEV en   
+2 TOO     5 FIFE     8 AIT 
+
+
+If you modify this file make sure that 
+the line width is less than 39 and that
+the file contains at least 35 lines
+(the program depends on the "vert.txt"
+file for <LF><CR> at the end of each line
+
+
+
+

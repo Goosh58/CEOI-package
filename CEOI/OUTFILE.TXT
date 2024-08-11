@@ -1,0 +1,396 @@
+     
+     
+     Operations Codes                   Page   1
+     
+     
+     000 a                    055 apc                  110 boat-s               
+     001 abdomen              056 apply                111 bomb-d-r-ng-s        
+     002 able/ability         057 approach-ed-s        112 bombardment          
+     003 abort-s-ed-ing       058 approach-ing         113 booby trap           
+     004 above                059 approve-al-d-ing     114 boundary-ies         
+     005 abrasion             060 approximate-ly       115 breach               
+     006 accident-al-s        061 are/is               116 break/broken         
+     007 accomplish-ed        062 area-s               117 breast               
+     008 accomplishing        063 arm-s-ed             118 bridge-d-ing-s       
+     009 acknowledge-d-ment   064 armor-ed             119 brigade              
+     010 act as relay         065 army-ies             120 brush pile           
+     011 act-ion-ing-s        066 around               121 building-s           
+     012 act-ive-ivity-s      067 arrange-d-ing        122 bulldozer            
+     013 add-ed-itional       068 arrange-ment         123 bunker-s             
+     014 add-ing-s            069 arrive-al-d-ing      124 burst-ing-s          
+     015 adjacent             070 artillery            125 by                   
+     016 administration       071 asap                 126 bypass-d-ing-s       
+     017 administrative       072 assault              127 c                    
+     018 admit                073 assemble-d-ing       128 cable-s              
+     019 advance-d-ing        074 assist-ance          129 caliber              
+     020 advisor-s            075 assist-ed-ing        130 call                 
+     021 affirmative          076 at (once)            131 camouflage-d         
+     022 age                  077 attach-ed-ing        132 camouflage-ing       
+     023 agent-s              078 attach-ment          133 camp                 
+     024 aid (sta/man)        079 attack-ed-ng-s       134 canal-s              
+     025 air (fld/port)       080 authorization        135 cancel-led-s         
+     026 air evacuation       081 authorize-d-ng       136 cancel-ling-s        
+     027 air force            082 available            137 cannon               
+     028 air liaison officer  083 aviator/pilot        138 capable-itiy         
+     029 air strike           084 axis (of)            139 capacity-ies         
+     030 airborne             085 azimuth (of)         140 capsule              
+     031 aircraft             086 b                    141 capture-d-ing        
+     032 airdrop-s            087 back-ed-ing          142 carry-ied-iers       
+     033 airhead              088 bad                  143 casualty-ies         
+     034 airmoble             089 barbed wire          144 cavalry              
+     035 ak-47                090 barrage-s            145 CBR                  
+     036 al                   091 barrier              146 cease-s-d-ing        
+     037 alert-ed-ing         092 base-d-s-ing         147 challenge-d-ing      
+     038 alive                093 battalion-s          148 change-d-s-ing       
+     039 all                  094 battery-ies          149 charge-d-s           
+     040 all cdrs rept        095 battle-s             150 check-d-ing-s        
+     041 all s3's rept        096 be-en-ing            151 chemical-s           
+     042 alley                097 beach-ed-s-ing       152 chief of staff(s)    
+     043 alt CP in comd       098 before               153 child/children       
+     044 alt supply pt        099 below                154 civilian-s           
+     045 alternate            100 between              155 clarification(of)    
+     046 alternate CP         101 beyond               156 class-ify            
+     047 am in pos (to)       102 bike                 157 classification       
+     048 ambulance            103 bivouac-ed-ing       158 clear-ed-ance        
+     049 ambush-ed-ing        104 black                159 clearing-s           
+     050 ammunition           105 bleed                160 close-d-ing          
+     051 amphibious           106 block-ed-ing         161 coast-s-al           
+     052 amputate             107 blow-ew-own          162 collapse             
+     053 answer-d-ing-s       108 blow-ing (up)        163 collect-ed-ion       
+     054 anti-                109 blue                 164 collect-ing-s        
+     
+     
+     
+     
+     
+     
+     
+     
+     Operations Codes                   Page   2
+     
+     
+     165 column-s             220 damage-d-ing         275 during               
+     166 combat               221 danger               276 e                    
+     167 come-ing             222 darkness             277 east-ern (of)        
+     168 command post         223 day-s/date-s         278 echelon              
+     169 command-er-ed-ing-s  224 deadline-d-ing       279 ed                   
+     170 commence-d-ment      225 death                280 effect-ed-ing        
+     171 commit-ment          226 deception            281 effect-ive-s         
+     172 commit-ted-ing       227 decontaminate-d-ion  282 element-s            
+     173 communicate-d-ions-s 228 decrease-d-ing       283 elevate-d-ion        
+     174 company              229 DEFCON               284 embank-s-ed          
+     175 complete-d-ing       230 defend-ed-g-s        285 embank-ment          
+     176 complete-ion         231 defense-sive         286 emergency            
+     177 compound             232 degree-s             287 embrace-d-ing        
+     178 compromise-d-ing     233 delay-ed-ing-s       288 emplace-ment         
+     179 concentrate-d-ing    234 delete-d-ion         289 employ-ed-ing        
+     180 concentrate-s-ion    235 delete/omit          290 en                   
+     181 concertina           236 deliver-ed-ing       291 encounter-d-ing      
+     182 concur               237 demolition           292 encrypt-ed-tion      
+     183 condition-d-ing      238 demonstrate-d-ing    293 en-ed-ing            
+     184 conduct-ed-ing       239 demonstrate-d-s-ion  294 enemy                
+     185 confidential         240 deny-ied-ies         295 engineer-d-ing-s     
+     186 connect-ed-ing       241 depart-d-g-ure       296 enlist-ed-ing        
+     187 connect-ion          242 deploy-ed-ing        297 enroute              
+     188 conserve-d           243 deploy-ment-s        298 entrench-ed          
+     189 conservation         244 depot(supply)        299 entrench-ment        
+     190 consolidate-d        245 deputy-ies           300 envelop-ed-ing       
+     191 consolidate-ng       246 designate-d          301 equip-ing-s          
+     192 consolidation        247 designate-ion        302 er                   
+     193 contact-ed-s         248 desk                 303 error                
+     194 contact-ing          249 destination          304 es                   
+     195 contaminate-d        250 destroy-d-ing-s      305 escape-d-ing         
+     196 contaminate-ion-ing  251 detach-ed-es         306 establish-d-ng       
+     197 continue-ation       252 detach-ment-s        307 estab-ed contact at( 
+     198 continue-d-ing       253 determine            308 estimate-d-ing       
+     199 control-d-ing-s      254 diesel               309 estimate-ion         
+     200 conversation         255 dig/dug (in)         310 et                   
+     201 convoy-s             256 direct-d-on-ng       311 eta your loc         
+     202 coord-s-d-ing        257 disable-d-ing        312 etd                  
+     203 corps                258 disapprove-d-al      313 evac-d-ing-ion       
+     204 correct (me)         259 disperse-d-g-l       314 execute-d-ing        
+     205 correct-ed-ing       260 displace-d-ing       315 execute-ion-s        
+     206 counterattack-ed-s   261 displace-ment        316 exhaust-ed-ing       
+     207 counterattack-ing    262 dispose-d-al         317 expect-ed-ing        
+     208 counterpart          263 disregard-d-ing      318 expect-ation-s       
+     209 cover-ed-ing         264 distance-s           319 expedite-d-ing       
+     210 craft                265 district-s           320 explode-d-s          
+     211 crane                266 ditch                321 exploit-ed-ing       
+     212 critical-ly          267 divert-ed-ion        322 explosive-s          
+     213 cross-ed-ing         268 divide               323 expose-d-ing         
+     214 crossroad-s          269 division-s           324 extend-d-g-ive       
+     215 crushed              270 down-ed              325 extend-sion          
+     216 culvert              271 downed acft          326 extend-extent        
+     217 cut-off              272 drop-ping-ped        327 extract-s-d-ing      
+     218 d                    273 due my               328 f                    
+     219 dagger               274 dump-ed-ing          329 fac                  
+     
+     
+     
+     
+     
+     
+     
+     
+     Operations Codes                   Page   3
+     
+     
+     330 facility             385 go-ing(to)           440 inadequate           
+     331 fail-ed-ing          386 good                 441 incendiary-ies       
+     332 fallout              387 grade-d-r-ing        442 inch-es              
+     333 family               388 green                443 incident-al-s        
+     334 fatal                389 grenade-s            444 increase-d-g-s       
+     335 favor-s-ed           390 grid(coord)          445 indigenous           
+     336 favor-able-ing       391 ground-s-ed          446 indirect             
+     337 feet/foot            392 group                447 individual           
+     338 female               393 guard-ed-ing-s       448 infantry             
+     339 ferry-ies-ied-ing    394 guerrilla-s          449 infiltrate-d-r-s     
+     340 field-s              395 guide-d-s-ing        450 infiltrate-g-on      
+     341 fight-er-ing         396 guide-ance           451 inflict              
+     342 final                397 gun-s                452 inform-d-ation       
+     343 fire-d-ing-s         398 h                    453 ing                  
+     344 fixed wing           399 had                  454 initial-ed-ly        
+     345 flame-d-ing-s        400 halt-ed              455 insert-s-ed-ing      
+     346 flame thrower        401 hand                 456 install-d-ation      
+     347 flank-ed-ing-s       402 harass-ed-ing        457 instrumental         
+     348 flare-d-s            403 harass-ment          458 intact               
+     349 flash                404 have/has             459 intend-ed-tion       
+     350 flash range-ing      405 head-ed-ing          460 intercept-d-or       
+     351 fled                 406 headquarters         461 intercept-ion-s      
+     352 flesh                407 heavy                462 interfere-d-ing      
+     353 flexible-ity         408 hgt of burst         463 interfere-nce        
+     354 flight               409 heli lift            464 internal             
+     355 follow-ed-ing        410 heli pad             465 interrogate-d        
+     356 for                  411 helicopter-s         466 interrogate-ion      
+     357 force-s-d-ing        412 here                 467 intersection         
+     358 ford-able            413 high-er-est          468 interval             
+     359 fog                  414 highway-s            469 isolate-d-ing        
+     360 forearm              415 hill/mt/rise-s       470 issue-d-ing-s        
+     361 forest-s             416 hit-ting             471 item-s               
+     362 fortify-ied          417 hold-er-ing          472 j                    
+     363 fortify-ication      418 hospital-s           473 jam-med-ing          
+     364 forward-ed-ing       419 hostile              474 jeep                 
+     365 found                420 hour-s-ly            475 jet-s                
+     366 foxhole              421 how                  476 join-ed-ing          
+     367 fracture             422 howitzer-s           477 joint                
+     368 frag order           423 i                    478 jump-ed-g(off)       
+     369 frequency-ies        424 identify-ed          479 junction-s(road)     
+     370 friend-ly            425 identification       480 k                    
+     371 from                 426 ied                  481 keep-s-ing           
+     372 front-age-ally       427 ies                  482 killed in act        
+     373 fuel                 428 if                   483 kilometer-s          
+     374 fuse-d               429 illuminate-d-ion     484 know-n-ing           
+     375 future               430 illuminate-ing       485 l                    
+     376 g                    431 immediately          486 labor-ed-ing         
+     377 gallon-s             432 imminent             487 lacerate             
+     378 gas-ing-ed           433 immobile-ize-d-ing   488 land-ed-ing          
+     379 gasoline             434 impact               489 large                
+     380 gate                 435 impassable           490 last                 
+     381 general-ize          436 impossible           491 lateral              
+     382 generator(set)       437 improve-d-ing        492 launch-d-r-ing       
+     383 get-ting             438 improve-ment         493 lay/laid             
+     384 give-n-ing           439 in                   494 lead-er-ing          
+     
+     
+     
+     
+     
+     
+     
+     
+     Operations Codes                   Page   4
+     
+     
+     495 leaflet-s            550 messenger            605 occupy-ation         
+     496 leave/left           551 meter-s              606 occupy-ed-ing        
+     497 left(of)             552 mile-s               607 odor                 
+     498 leg                  553 mine-d(field)        608 of                   
+     499 level                554 minimum              609 offense-ive          
+     500 liaison(off)         555 minim-ize-d          610 officer-s            
+     501 life                 556 minor                611 oil                  
+     502 light-er-ng-d-s      557 minute-s             612 on                   
+     503 limit-ed-ing-s       558 miss-ed-ing          613 open-ed-ing          
+     504 line-d-s(of)         559 missile-s            614 operate-ion-s        
+     505 listen-ed-ing        560 missing in act       615 operate-s-al         
+     506 litter-s             561 mission-s            616 opportunity-s        
+     507 litter evac needed a 562 mobile-ity           617 or                   
+     508 load-s-ed            563 moon                 618 orange               
+     509 local-ize-d          564 morale               619 order-ed-ing-s       
+     510 locate-d-ing-s       565 morning              620 ordnance             
+     511 locate-ion(of)       566 more/most            621 organize-ation       
+     512 logistic-al-s        567 mortar-s             622 organize-d           
+     513 look(for)            568 motor-ized           623 orient-g-ation       
+     514 loss-es-lost         569 mountain-ous         624 origin-al-ate        
+     515 loudspeaker          570 mount-ed-ing         625 other                
+     516 low-er-est           571 move-d-ing           626 our                  
+     517 ly                   572 move-ment            627 out(of)              
+     518 m                    573 multiple             628 outpost              
+     519 m14                  574 my                   629 over-age             
+     520 m16                  575 my location is       630 overlay              
+     521 m60                  576 n                    631 over-run             
+     522 machinegun-s         577 napalm               632 p                    
+     523 magnetic             578 narrow               633 panel-s              
+     524 main                 579 navel gunfire        634 paratroop-s          
+     525 main body            580 nco                  635 part-s               
+     526 main supply rt       581 near                 636 party-ies            
+     527 maintain-ing-s       582 need-ed-ing          637 pass-es-ed           
+     528 maintain-ed          583 net-ted-ting         638 pass-able            
+     529 maintenance          584 neutral-ize          639 pass-age-ing         
+     530 make-g/made          585 neutralize-d-ng      640 password             
+     531 male                 586 new                  641 past                 
+     532 maneuver-ng-s        587 night-s              642 patrol-ed-ing-s      
+     533 man-ned-ning         588 no/non/neg           643 penetrate-d-ing      
+     534 many                 589 no fire line         644 penetrate-ion        
+     535 map-ped-ping-s       590 none                 645 percent-age          
+     536 match-d-s-ing        591 north-ern(of)        646 perimeter            
+     537 market               592 not                  647 period               
+     538 max(range)           593 not later than       648 permission           
+     539 means                594 nothing              649 permit-ed-ing        
+     540 measure-d            595 notify-ied-ies       650 personnel            
+     541 measure-ment         596 now                  651 phase                
+     542 mechanic-al          597 nuclear              652 phase line           
+     543 mechanized-d         598 numbers              653 photograph-ed-er-ing 
+     544 medivac needed       599 o                    654 pick up              
+     545 medical              600 objective-s          655 piece-d-ing-s        
+     546 medium               601 observe-d-r          656 pipe line            
+     547 meet-ing             602 observe-s-ing        657 place-d-ing          
+     548 meet (me)(at)        603 observation(post)    658 plan-s-ed-ing        
+     549 message-s            604 obstacle-s           659 platoon-s            
+     
+     
+     
+     
+     
+     
+     
+     
+     Operations Codes                   Page   5
+     
+     
+     660 point-s-ed-ing       715 reference-d-s        770 section-s            
+     661 pol                  716 reference (to)       771 sector-s             
+     662 platoons             717 regiment-s           772 secure-d-ing         
+     663 port(harbor)         718 registration pt      773 secure-ity-s         
+     664 position-s-ed        719 regroup-ed-ng        774 sieze-d-ing          
+     665 possible             720 reinf-ed-s-ing       775 sieze-ure-s          
+     666 post-s               721 reinf-ment-s         776 self propelled       
+     667 pospone-d-s          722 relay-ed-ing         777 send-ing/sent        
+     668 pospone-ing          723 release-d-ing-s      778 separate-d-ion       
+     669 pound-s              724 relief/relieve       779 sequence             
+     670 prepare-d-ing-s      725 remain-ing           780 serial               
+     671 preparation          726 rendezvous           781 service-d-able       
+     672 prevent              727 reorganize-d-ation-s 782 shell-s-ing-ed       
+     673 priest               728 repair-ed-ing        783 shoot-ing/shot       
+     674 primary              729 repeat-ed-ing        784 short-ed             
+     675 priority             730 repel-ed-ing-s       785 shoulder             
+     676 prize-s of war       731 replace-d-ing        786 sight-ed-ing         
+     677 probable             732 replace-ment         787 sign-ed-ing          
+     678 procees-ed-ing       733 report-ed-ing        788 signal-ed-ing        
+     679 progress-ed-ing      734 report-s(to)         789 silent-ly-ce         
+     680 protect-d-s-ing      735 repulse-d-ing        790 simulate-d-ing       
+     681 protect-ed-ion       736 request-d-g-s        791 site-s               
+     682 protect-ive          737 req air strike       792 sit/sitrep           
+     683 provide-d-ing        738 require-d-ing        793 slope-s-ing-d        
+     684 provide-sion         739 require-ment         794 slow-ed-ing          
+     685 province             740 rescue               795 small-er-est         
+     686 prov st ad           741 reserve-d-g-s        796 smoke-d-ing-s        
+     687 psywar               742 resist-ed-ance       797 soldier              
+     688 pursue-d-ing-t       743 resist-ing           798 soon-er-est          
+     689 q                    744 restore-s-d          799 sortie-s             
+     690 quartermaster        745 restoration          800 south-ern(of)        
+     691 question-ed          746 restrict-ion         801 speak                
+     692 query-ied            747 restrict-ive         802 spearhead            
+     693 r                    748 resupply-d-s-g       803 sporatic             
+     694 rad(rad/hr)          749 result-s-ed-ng       804 spot-ted(rept)       
+     695 radar                750 return-ed-ing        805 squad-s              
+     696 radiation            751 returnee-s           806 squadron             
+     697 radio-s              752 ridge-d-s            807 stand-ing(by)        
+     698 radiological         753 rifle-s              808 start-ed-ing         
+     699 raid-er-ing-s        754 right(of)            809 station-ed-s         
+     700 railhead             755 riot-s-ed            810 status(report)       
+     701 railroad-s           756 river-stream-s       811 stay-ed-ing          
+     702 range                757 road-s               812 stop-ped-ing         
+     703 rate                 758 rocket-s             813 strafe-d-ing         
+     704 ration-s-ed          759 round-s              814 street               
+     705 reach-ed-s-ing       760 route-s-d-ing        815 strength-en          
+     706 ready                761 ruin-s-ed            816 strike/struck        
+     707 rear                 762 s                    817 strong-er-est        
+     708 receive-r-d-ng       763 safe-r-ty            818 submit-ed-ing        
+     709 recognize-d-ing      764 schedule-d-ing-s     819 subordinate-s        
+     710 recoilless rifl      765 scout-ed-ing-s       820 successful           
+     711 recon                766 screen-d-ing-s       821 sunrise              
+     712 recover-ed-y         767 search-d-ng-s        822 sunset               
+     713 red                  768 second-s-ary         823 superior-ity         
+     714 reduce-g-tion        769 secret               824 supplement-ed-ary    
+     
+     
+     
+     
+     
+     
+     
+     
+     Operations Codes                   Page   6
+     
+     
+     825 supply-d-s-g         880 transport-ed         935 WIA                  
+     826 support-s-d-ing      881 transport-g-s        936 will                 
+     827 surface-d-ing        882 transportation       937 wind                 
+     828 surgery              883 trapped              938 wire-s-d-ing         
+     829 surround-ed-ing      884 troop-s(lift)        939 with                 
+     830 survey-ed-s          885 truck-ed-s-ing       940 withdraw-ing-s       
+     831 survey-lance         886 turn-ed-ing          941 wood-s-ed            
+     832 suspect-d-ing        887 u                    942 work-s-ed-ing        
+     833 swallow              888 unable               943 wound-ed-s           
+     834 switch-ed-ing        889 unauthorized         944 wreck-ed-ed-s        
+     835 swollen              890 under/undercover     945 wrist                
+     836 t                    891 understand           946 wrong                
+     837 tactic-s-al          892 understood           947 x                    
+     838 tac opns cen         893 unidentified         948 y                    
+     839 take-ing/took        894 unit-ed-s-ing        949 yard-s               
+     840 talk                 895 until(further notice 950 yellow               
+     841 tank-er-s            896 unusual              951 yes                  
+     842 tank destroyer-s     897 unarmed              952 yesterday            
+     843 target-s             898 unharmed             953 you-r                
+     844 task(force)          899 up                   954 z                    
+     845 taxi                 900 us                   955 zone-s-ing(of)       
+     846 team-s-ed            901 use-d-g(alt rt)      956 zone-s-ing(of)       
+     847 ted                  902 v                    957                      
+     848 telephone-s          903 vehicle-s            958                      
+     849 temple               904 verify-ied           959                      
+     850 tentetive            905 verification         
+     851 terminate-d-g        906 vertical             
+     852 terrain              907 very                 
+     853 territory            908 vicinity(of)         
+     854 terrorists           909 violate-s-d          
+     855 there                910 violet               
+     856 these                911 visible-ity          
+     857 this                 912 vulnerable           
+     858 through              913 w                    
+     859 tide                 914 wagon                
+     860 time-d-ing           915 wait-ed-ing          
+     861 tion                 916 war                  
+     862 to(be)               917 warehouse            
+     863 today                918 warhead-s            
+     864 tomorrow             919 was/were             
+     865 ton-s-age            920 water                
+     866 tonight              921 we/us                
+     867 top secret           922 weak-en-ness         
+     868 total                923 weapon-s             
+     869 tow-ed-ing           924 weather              
+     870 TOW                  925 week-s               
+     871 toward               926 west-ern(of)         
+     872 town/village-s       927 what                 
+     873 trace-r              928 wheel-ed             
+     874 trak-ed-ing          929 when                 
+     875 traffic              930 where                
+     876 trail-er-d-ing-s     931 which                
+     877 train-ed-ing-s       932 white                
+     878 transmit-ed          933 white phosphorus     
+     879 transmission         934 who                  
+     
+     
+     
+     
+     
+     

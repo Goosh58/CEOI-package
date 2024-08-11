@@ -1,0 +1,42 @@
+                                 BREVITY LIST
+
+    00 Code compromised                        26 Request diversion __
+    01 My location (is) (co-ord)               27 Bearing ___ Degrees mag.
+    02 At Assembly Area                        28 Distance (meters)
+    03 Crossing LD                             29 Distance (km)
+    04 Crossing Phaseline (Letters)            30 Distance (miles)
+    05 Mission accomplished                    31 Bearing __ O'Clock
+    06 Implementing Plan Bravo                     (from your front)
+    07 Implementing Plan Charlie               32 I am under air attack
+    08 Implementing Plan Delta                 33 I am under infantry attack
+    09 Request Reinforcements                  34 I am under armor attack
+    10 Mission aborted returning to base       35 Continuing mission
+    11 Mission aborted taking evasive action
+    12 Engaging enemy at (co-ord)              36__________________________
+    13 Checkpoint Alpha
+    14 Checkpoint Bravo                        37__________________________
+    15 Checkpoint Charlie
+    16 Checkpoint Delta                        38__________________________
+    17 request re-supply
+    18 Water/Food                              39__________________________
+    19 Ammo type(s) -- -- --
+    20 Clothing/blankets                       40__________________________
+    22 5.56 NATO
+    23 7.62 NATO                               41__________________________
+    24 7.62 X 39
+    25 9mm                                     42__________________________
+    
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE THIS IS ONLY AN EXAMPLE FILE - THIS FILE SHOULD CONTAIN A LIST OF
+BREVITY CODES I.E. 01 - Return to base, etc. 
