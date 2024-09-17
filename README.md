@@ -1,5 +1,5 @@
 Note: The C executables will ONLY run in WinXP or Vista. Someone who can fix this is most welcome to pitch in.
-The random number generator also needs some scrutiny. The for it is easily viewed in theCEONotes text file.
+The random number generator also needs some scrutiny. The code for it is easily viewed in theCEONotes text file.
 Otherwise, everything you need to know is in the text files. 
 Most importantly, you MUST use a Nonproportional font, else the table columns won't line up properly.
 
