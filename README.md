@@ -1,10 +1,12 @@
+#CEOI PACKAGE: DRYAD and Trigram Generator
+
 CEOI (Communications Electronics Officer's Information or Operating Instructions) is a small (500 kb) suite of programs used to create dryads and trigrams. There are examples and instructions in the included text files.
 These are what I believe to be the originals, first appearing on the internet around 1995. In their current state, they need to be run in a DOS box or Win XP or earlier. So, an old pawnshop laptop should do nicely.
 The whole package will fit, and run, on a small thumb drive.
 
 Advantages:
 Since no algorithms are used to create the codes, a brute force attack is futile.
-Because the codes generated are just letters, ie, RHW, they can be transmitted via any system that recognizes the English alphabet; voice, RTTY, PSK, FSK, CW, Voice and so on. 
+Because the codes generated are just letters, ie, RHW, they can be transmitted via any system that recognizes the English alphabet; voice, RTTY, PSK, FSK, CW, and so on. 
 
 Disadvantages: while the trigram is too slow for tactical use, the opcodes, being 2 digit numbers, are ideal for tactical use, using words suited to your local needs. 
 Requires training.
